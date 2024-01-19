@@ -1,5 +1,4 @@
 # AMS_SE_PROJECT
-This project is done as part of the Software Engineering Course **CS29006** with contributions from the members of **Group-28**.\
 This is a slightly scaled down model of an Airline Management System(so is **AMS**).\
 The project with its code written in python uses *mysqllite3* for database storage and *tkinter* for the GUI.
 ## Breakup of the Files:
